@@ -14,7 +14,7 @@
 
 [mono_df_all.csv](https://drive.google.com/file/d/1vG98R7HKnToYZuJlUn5vJnYxQT_yVJKg/view?usp=share_link) - датасет с информацией об односложных словах
 
-[mono_df_all_new.csv](https://drive.google.com/file/d/1vG98R7HKnToYZuJlUn5vJnYxQT_yVJKg/view?usp=share_link) - обновлённый датасет с информацией об односложных словах
+[mono_df_all_new.csv](https://drive.google.com/file/d/1W6ebk54mblh3fpgOR7i9B2WYyKHyloIn/view?usp=sharing) - обновлённый датасет с информацией об односложных словах
 
 [df_alg.csv](https://drive.google.com/file/d/1VIPaeUKkBavvLjBCbYjbREjowQEgDkgW/view?usp=sharing) - сокращённый датасет с информацией об односложных словах (только столбцы, необходимые для работы алгоритма в is_ict.ipynb)
 
